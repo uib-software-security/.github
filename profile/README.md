@@ -11,3 +11,11 @@
 ## 📚 Apunts de l'assignatura
 
 La darrera versió està disponible a: [https://uib-software-security.github.io/book/](https://uib-software-security.github.io/book/).
+
+## 🧭 Repositoris del curs acadèmic
+
+El repositori del curs acadèmic actual està disponible a: [https://github.com/uib-software-security/curs-2025-26](https://github.com/uib-software-security/curs-2025-26)
+
+## ℹ️ Descripció
+
+Aquest espai recull els materials docents, pràctiques i recursos de l'assignatura **Seguretat del Software** del grau d'Enginyeria Telemàtica (UIB).
